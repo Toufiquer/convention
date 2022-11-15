@@ -2,7 +2,7 @@
   height: calc(100vh - 100px);
   object-fit: cover;
 }
-.img-moment {
+.img-400-cover {
   height: 400px;
   object-fit: cover;
 }
