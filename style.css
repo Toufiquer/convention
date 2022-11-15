@@ -1,5 +1,5 @@
 .img-height {
-  height: calc(100vh - 100px);
+  height: calc(100vh - 40px);
   object-fit: cover;
 }
 .img-400-cover {
