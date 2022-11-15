@@ -9,3 +9,8 @@
 .moment-height {
   height: 400px;
 }
+.img-clients {
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
+}
